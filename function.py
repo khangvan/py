@@ -1,5 +1,9 @@
+def newfile():
+  print("newfile")
+  
 def hello():
   print("khang")
+
 
 #-----
 def exampleplot():
