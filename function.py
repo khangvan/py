@@ -33,3 +33,4 @@ def exampleplot():
 
   y.plot(figsize=(15, 4))
   plt.show()
+  print('ok')
