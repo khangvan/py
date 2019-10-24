@@ -2,7 +2,7 @@ def hello():
   print("khang")
 
 #-----
-def example_plot():
+def exampleplot():
   import pandas as pd
   mytext='''
   2019/01/1,2
