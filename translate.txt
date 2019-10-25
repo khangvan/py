@@ -1,0 +1,259 @@
+Chapter 19: Agency Relationships
+§1:  Agency Law (1 of 11)
+The Restatement (Third) of Agency defines agency as “the fiduciary relation [that] results from the manifestation of consent by one person to another that the other shall act in his [or her] behalf and subject to his [or her] control, and consent by the other so to act.”
+Fiduciary: A person who undertakes to act on behalf of—and primarily for the benefit of—another. A fiduciary relationship involves trust and confidence. 
+
+Agency Law (2 of 11)
+Agency relationships are common between employers and employees. They may also exist between employers and independent contractors.
+Employer-Employee Relationships: All employees who deal with third parties are usually deemed to be agents. 
+Agency Law (3 of 11)
+Employer-Employee Relationships: Employment laws (state and federal) apply only to the employer-employee relationship but not to employer–independent contractors relationships. 
+Agency Law (4 of 11)
+Employer–Independent Contractor Relationships: Independent contractors are not employees because those who hire them have no control over the details of their work performance. 
+The contractor may or may not have an agency relationship with the principal. 
+Agency Law (5 of 11)
+Determination of Employee Status:
+Employers are required to pay certain taxes for employees but not for independent contractors.
+Criteria Used by the Courts: To decide whether a worker is an employee or an independent contractor, courts often consider the following questions:   
+Agency Law (6 of 11)
+Determination of Employee Status:
+Criteria Used by the Courts: 
+How much control does the employer exercise over the details of the work? 
+Is the worker engaged in an occupation or business distinct from that of the employer?   
+Agency Law (7 of 11)
+Determination of Employee Status:
+Criteria Used by the Courts: 
+Is the work usually done under the employer’s direction or by a specialist without supervision? 
+Does the employer supply the tools at the place of work?
+For how long is the person employed? 
+Agency Law (8 of 11)
+Determination of Employee Status:
+Criteria Used by the Courts: 
+What is the method of payment—by time period or at the completion of the job? 
+What degree of skill is required of the worker?   
+Agency Law (9 of 11)
+Determination of Employee Status:
+Criteria Used by the Courts: Whether a worker is an employee or an independent contractor affects the employer’s liability for the worker’s actions. 
+See Case in Point 19.1  Coker v. Pershad (2013). 
+Agency Law (10 of 11)
+Determination of Employee Status:
+Criteria Used by the IRS: Most important factor is the degree of control the business exercises over the worker. 
+The IRS closely scrutinizes categorization of workers since employers can avoid certain tax liabilities by hiring independent contractors instead of employees.   
+Agency Law (11 of 11)
+Determination of Employee Status:
+Employee Status and “Works for Hire”: 
+Copyrighted work created by an employee is owned by the employer.
+Copyrighted work created by an independent contractor is normally owned by the contractor unless the parties agree in writing that it is a “work for hire” and the work falls into nine specific categories. 
+§2:  Formation of the Agency Relationship (1 of 5)
+Generally, agency relationships:
+Are consensual.
+Require no consideration.
+Require principal to have contractual capacity (agent does not).
+Can be created for any legal purpose.
+Formation of the Agency Relationship (2 of 5)
+Agency by Agreement:
+Formed through express consent (oral or written) or implied by conduct.
+See Case in Point 19.4  Laurel Creek Health Care Center v. Bishop (2010).  
+Agency by Ratification: Principal either by act or by agreement ratifies conduct of a person who is not in fact an agent.
+
+
+Formation of the Agency Relationship (3 of 5)
+Agency by Estoppel: 
+Created by the Principal’s Conduct: It is not the acts or declarations of a purported agent but the statements of the principal that create an agency by estoppel.
+Formation of the Agency Relationship (4 of 5)
+Agency by Estoppel: 
+The Third Party’s Reliance Must Be Reasonable: Principal causes a third person to believe that another person is the principal’s agent, and the third person acts to her detriment in reasonable reliance on that belief. 
+
+Formation of the Agency Relationship (5 of 5)
+Agency by Operation of Law: Agency based on social policy or legal duty, OR formed in certain situations when the agent is unable to contact the principal.
+Situations in which this type of agency occurs most often include the purchase of necessaries among family members or emergencies.
+§3: Duties of Agents and Principals (1 of 8)
+Agent’s Duties to the Principal:
+Performance: Implied condition to use reasonable diligence and skill. If agent fails, liability for breach of contract may occur. 
+Standard of Care. 
+Gratuitous Agent: No contract involved and agent is only liable for torts. 
+Duties of Agents and Principals (2 of 8)
+Agent’s Duties to the Principal:
+Notification: The agent must notify the principal of all matters concerning subject matter of agency.
+The law assumes that the principal is aware of any information acquired by the agent that is relevant to the agency. 
+Duties of Agents and Principals (3 of 8)
+Agent’s Duties to the Principal:
+Loyalty:  Agent has the duty to act solely for the benefit of the principal and not in the interest of the agent or a third party. 
+See Case 19.1 Taser International, Inc. v. Ward (2010). 
+Obedience: An agent has a duty to follow all lawful and clearly stated instructions of the principal. 
+Duties of Agents and Principals (4 of 8)
+Agent’s Duties to the Principal:
+Accounting: Unless agreed otherwise, the agent must keep a separate account of all property and funds received and paid out on the principal’s behalf—including gifts from third parties in connection with the agency. 
+Account must also be made available to the principal by the agent. 
+Duties of Agents and Principals (5 of 8)
+Principal’s Duties to Agent: 
+Compensation: Agent must be paid for services rendered.
+Reimbursement and Indemnification: Agent must be reimbursed for expenses and compensated for liabilities incurred from authorized/lawful acts. 
+Duties of Agents and Principals (6 of 8)
+Principal’s Duties to Agent: 
+Cooperation: Principal must cooperate with agent and assist agent in performing his/her duties—and must do nothing to prevent that performance. 
+Safe Working Conditions: The principal is required to provide safe working premises, equipment, and conditions for all agents and employees. 
+Duties of Agents and Principals (7 of 8)
+Rights and Remedies of Agents and Principals: Agent has the right to be compensated, reimbursed, and indemnified and to work in a safe environment without interference.
+Agent can withhold further performance and demand that the principal give an accounting. 
+Duties of Agents and Principals (8 of 8)
+Rights and Remedies of Agents and Principals: The principal has tort remedies if the agent engages in misrepresentation, negligence, deceit, libel, slander, or trespass. 
+Any breach of a fiduciary duty by an agent may justify the principal’s termination of the agency.
+§4: Agent’s Authority (1 of 9)
+Principal is liable for agent’s acts when agent has either actual or apparent authority to enter into contracts with third parties.
+Actual Authority: Can be express or implied.
+Apparent Authority: Based on what the principal causes a third party to believe. 
+Agent’s Authority (2 of 9)
+Express Authority: Authority declared in clear, direct, and definite terms—orally or in writing.
+Equal Dignity Rule: If the law requires written contract, agent’s authority must be in writing, or contract voidable.  
+Failure to comply with the equal dignity rule can make a contract voidable at the option of the principal. 
+Agent’s Authority (3 of 9)
+Express Authority:
+Equal Dignity Rule: Exceptions 
+Executive officer acting for corporation without written authority.
+Agent acts in principal’s presence.
+When agent’s act of signing is a mere formality. 
+Agent’s Authority (4 of 9)
+Express Authority:
+Power of Attorney: Confers express authority via a written document that is usually notarized. 
+The POA can be special (agent does specified acts) or general (agent transacts all business for principal).
+The POA usually terminates on principal’s death or incapacity.
+Agent’s Authority (5 of 9)
+Implied Authority: The agent does what is reasonably necessary to carry out express authority to accomplish the agency’s objectives. 
+Authority is inferred or conferred by custom, or agent’s position.
+An agent’s implied authority cannot contradict his or her express authority. 
+Agent’s Authority (6 of 9)
+Apparent Authority: Agent has apparent authority when principal causes third party to reasonably believe that agent has authority to act for principal.   
+Apparent authority usually comes into existence through a principal’s pattern of conduct over time. 
+See Case in Point 19.14  Lundberg v. Church Farm, Inc. (2010).  
+Agent’s Authority (7 of 9)
+Emergency Powers: Arises when an agent must protect or preserve the property and rights of the principal and the agent is unable to communicate with the principal.
+Ratification: Occurs when principal accepts responsibility for an agent’s unauthorized act (express or implied). When it occurs, the principal is bound by the agent’s act. 
+Agent’s Authority (8 of 9)
+Ratification: Requirements 
+Agent must act on behalf of principal.
+Principal must know all of the material facts of the transaction. 
+Principal must affirm the agent’s act in its entirety. 
+Principal and third party must have had legal capacity to contract when agent made the deal. 
+Agent’s Authority (9 of 9)
+Ratification: Requirements 
+The principal’s affirmation (ratification) must occur before the third party withdraws from the transaction.
+The principal must observe the same formalities when ratifying the act as would have been required to authorize it initially.
+§5: Liability in Agency Relationships (1 of 20)
+Liability for Contracts: Liability for contracts formed by an agent depends on the principal’s classification and whether the agent’s actions were authorized or unauthorized. 
+Principals are classified as disclosed, partially disclosed, or undisclosed. 
+Liability in Agency Relationships (2 of 20)
+Liability for Contracts: 
+Disclosed: Identity is known to third party.
+Partially Disclosed: Third party knows he is dealing with an agent, but doesn’t know principal’s identity. 
+Undisclosed: Third party does not know identity of the principal and/or that he is dealing with an agent (or agent is the principal). 
+Liability in Agency Relationships (3 of 20)
+Liability for Contracts: 
+Authorized Acts:
+Disclosed or Partially Disclosed Principal: Liable to third party if agent acts within scope of authority. Agent has no liability to third party for disclosed principal’s nonperformance. The agent may be liable if principal is partially disclosed. 
+Liability in Agency Relationships (4 of 20)
+Liability for Contracts: 
+Authorized Acts:
+Undisclosed Principal: No liability for agent unless:
+Principal expressly excluded liability per the contract terms.
+Contract is a negotiable instrument.
+Agent’s performance is personal. 
+Liability in Agency Relationships (5 of 20)
+Liability for Contracts: 
+Unauthorized Acts: If the acts are outside the agent’s express, implied, or apparent authority, she/he is liable regardless of the principal’s classification.
+If third party knows at the time of contracting that agent has no authority, the agent is not liable.
+Liability in Agency Relationships (6 of 20)
+Liability for Contracts: 
+Actions by E-Agents:
+An “e-agent” is a semiautonomous computer program capable of executing specific tasks on behalf of a principal.
+E-commerce uses e-agents to create contracts every day.  
+Liability in Agency Relationships (7 of 20)
+Liability for Torts and Crimes: An agent is liable to third party for his own torts. 
+The principal may be liable for agent’s torts if they result from:
+Principal’s Tortious Conduct.
+Principal’s Authorization of Agent’s Tortious Conduct.  
+Liability for Agent’s Misrepresentation. 
+Liability in Agency Relationships (8 of 20)
+Liability for Torts and Crimes: 
+Principal’s Tortious Conduct: Principal who acts through an agent may be liable for harm resulting from the principal’s own negligence or recklessness due to improper instructions, authorization to use improper materials or tools, or improper rules that result in the agent’s committing a tort. 
+Liability in Agency Relationships (9 of 20)
+Liability for Torts and Crimes: 
+Principal’s Authorization of Agent’s Tortious Conduct:  A principal who authorizes an agent to commit a tort may be liable to persons or property injured because the act is considered to be the principal’s. 
+Liability in Agency Relationships (10 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Misrepresentation: A principal’s liability depends on whether the agent was actually or apparently authorized to make representations. The principal is always directly responsible for an agent’s misrepresentation made within the scope of the agent’s authority. 
+Liability in Agency Relationships (11 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Negligence:
+Doctrine of Respondeat Superior: The employer is vicariously liable for an agent-employee’s negligent torts committed within the agent’s “course and scope of employment.” 
+Liability in Agency Relationships (12 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Negligence:
+Determining the Scope of Employment: Whether a principal is liable under the doctrine of respondeat superior depends on whether the torts are committed within the scope of the agency.
+See Case 19.3 Asphalt & Concrete Services, Inc. v. Perry (2015). 
+Liability in Agency Relationships (13 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Negligence:
+Determining the Scope of Employment: 
+Whether the employee’s act was authorized by the employer.
+The time, place, and purpose of the act.
+Whether the act was commonly performed by employees on behalf of their employers. 
+Liability in Agency Relationships (14 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Negligence:
+Determining the Scope of Employment: 
+The extent to which the employer’s interest was advanced by the act.
+The extent to which the private interests of the employee were involved.
+Whether the employer furnished the means by which an injury was inflicted. 
+Liability in Agency Relationships (15 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Negligence:
+Determining the Scope of Employment: 
+Whether the employer had reason to know the employee would perform the act and whether the employee had done it before.
+Whether the act involved the commission of a serious crime.
+Liability in Agency Relationships (16 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Negligence:
+Distinction Between  a “Detour” and a “Frolic”:  If a “detour” principal is liable; if a “frolic” principal is not liable. 
+Employee travel time to or from meals is outside scope of employment unless traveling is a core part of the position. 
+
+Liability in Agency Relationships (17 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Intentional Torts:
+Under the doctrine of respondeat superior, the principal is liable for intentional torts committed within the scope of employment. 
+Liability in Agency Relationships (18 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Intentional Torts:
+Employer is liable for employee’s acts that employer knew—or should have known—the employee had a propensity to commit. An employer is also liable for permitting an employee to engage in reckless actions that can injure others.
+Liability in Agency Relationships (19 of 20)
+Liability for Torts and Crimes: 
+Liability for Independent Contractor’s Torts: Generally, an employer is not liable for acts of independent contractors because employer has no right to control.
+Exceptions: Strict liability for unusually hazardous activities, transportation of highly volatile chemicals, or use of poisonous gases. 
+Liability in Agency Relationships (20 of 20)
+Liability for Torts and Crimes: 
+Liability for Agent’s Crimes: An agent is liable for her own crimes. The principal is not liable, even if the crime was committed within the scope of employment, unless:
+Principal participated in the crime.
+Principals may be liable for agent violation of regulations in some jurisdictions.
+§6:  Termination of An Agency (1 of 4)
+Agency can be terminated by an act of the parties or by operation of law. 
+Once agency has terminated, the agent has no actual authority to bind the principal. 
+For an agent’s apparent authority to be terminated, third persons may also need to be notified that the agency has been terminated. 
+
+Termination of An Agency (2 of 4)
+Termination by Act of Parties:
+Lapse of Time.
+Purpose Achieved.
+Occurrence of a Specific Event.
+Mutual Agreement.
+At the Option of One Party: Revocation, if by principal; renunciation, if by agent.
+Termination of An Agency (3 of 4)
+Termination by Act of Parties:
+Wrongful Termination: Both parties have the power to terminate the agency but do not necessarily have the right to do so. Wrongful termination can be a breach of contract. 
+Notice of Termination: It is the principal’s duty to inform third parties who know of the agency’s existence that it has been terminated.
+Termination of An Agency (4 of 4)
+Termination by Operation of Law: These events automatically terminate an agency.
+Death or insanity of principal or agent.
+Impossibility.
+Changed circumstances.
+Bankruptcy.
+War.
