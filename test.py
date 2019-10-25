@@ -1,7 +1,7 @@
 def testrun():
   print("ok")
 def testrun2():
-  print("ok khang")
+  return "hii"
   
 def postgres_passwd(password, username, uppercase=False):
     """
