@@ -1,3 +1,12 @@
+stocksX = [   'AUDCAD','CADJPY','EURJPY','GBPAUD','NZDCAD','USDCHF',
+'USDTRY','AUDCHF','CHFJPY','EURNOK','GBPCAD','NZDCHF','USDCNH',
+'USDZAR','AUDJPY','EURAUD','EURNZD','GBPCHF','NZDJPY','USDJPY',
+# 'ZARJPY',
+'AUDNZD','EURCAD','EURSEK','GBPJPY','NZDUSD','USDMXN','AUDUSD',
+'EURCHF','EURTRY','GBPNZD',
+# 'TRYJPY',
+'USDNOK','CADCHF','EURGBP','EURUSD','GBPUSD','USDCAD','USDSEK',    'XAUUSD',    'XAGUSD'
+]
 def newfile():
   print("newfile")
   
@@ -12,3 +21,5 @@ def kvan_get_lib(filename):
   
   
   print("done")
+
+  
