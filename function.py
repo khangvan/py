@@ -11,3 +11,4 @@ def kvan_get_lib(filename):
   link="https://raw.githubusercontent.com/khangvan/py/master/{}".format(filename)
   !curl -O link
   import filename
+  print("done")
