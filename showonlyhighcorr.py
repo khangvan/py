@@ -1,6 +1,6 @@
 def showonlyhighcorr(df,N=0.8):
   """
-  
+  do filter only these item that have correalation with abs upper or lower 0.8
   """
   import numpy as np
   df=df.copy()
